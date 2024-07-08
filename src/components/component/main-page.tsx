@@ -252,7 +252,7 @@ export function MainPage() {
           <p className="   ">13006 MARSEILLE</p>
           <p className="  mt-4 ">contact@nito-services.fr</p>
 
-          <p className="  mt-4 ">TEL: 05 35 54 19 41</p>
+          <p className="  mt-4 ">TEL: 04 84 89 63 53</p>
         </div>
       </footer>
     </div>
